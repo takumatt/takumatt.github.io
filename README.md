@@ -1,6 +1,8 @@
 # Takuma Matsushita
 Senior iOS Engineer
 
+[日本語版 / Japanese Version](README_ja.md)
+
 ## Education
 **Master of Informatics**  
 Department of Informatics, Graduate School of Integrated Science and Technology  

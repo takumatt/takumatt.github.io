@@ -1,23 +1,24 @@
 # Takuma Matsushita
-Senior iOS Engineer
+Senior Engineer, Mobile Platform Team
 
 [日本語版 / Japanese Version](README_ja.md)
 
 ## Education
-**Master of Informatics**  
-Department of Informatics, Graduate School of Integrated Science and Technology  
-Shizuoka University  
+**Master of Informatics**
+Department of Informatics, Graduate School of Integrated Science and Technology
+Shizuoka University
 *April 2018 - March 2020*
 
-**Bachelor of Informatics**  
-Department of Computer Science, Faculty of Informatics  
-Shizuoka University  
+**Bachelor of Informatics**
+Department of Computer Science, Faculty of Informatics
+Shizuoka University
 *April 2014 - March 2018*
 
 ## Experience
-**Eureka, Inc.**  
-- **Senior iOS Engineer** (April 2025 - Present)
-- **iOS Engineer** (April 2020 - March 2025)
+**Eureka, Inc.**
+- **Senior Engineer, Mobile Platform Team** (February 2026 - Present)
+- **Senior iOS Engineer, iOS Team** (April 2025 - January 2026)
+- **iOS Engineer, iOS Team** (April 2020 - March 2025)
 
 ## Publications
 T. Matsushita, and N. Fukuta, "Toward Better Community Protection using a Connection-Recommendation Mechanism on Distributed Social Networks", Proc. of IEEE/IIAI International Congress on Applied Information Technology(IEEE/IIAI AIT2019), 2019.
